@@ -8,7 +8,7 @@ I have began a complete re-write / re-implementation of this idea. Decided it wo
 
 ## Clone and build Docker image
 ```
-$ git clone https://github.com/dustyfresh/HoneyPress.git
+$ git clone https://github.com/sciking/HoneyPress.git
 $ cd HoneyPress && docker build --rm -t honeypress .
 ```
 
